@@ -1,0 +1,23 @@
+{
+  "repository": "Diogoalk/papeisdeparedetema",
+  "description": "Coleção de papéis de parede temáticos",
+  "lastUpdated": "2026-07-25",
+  "wallpapers": [
+    {
+      "id": 1,
+      "name": "05f04761-8764-4830-8ada-20ef0891d53b.png",
+      "type": "image/png",
+      "size": "2.44 MB",
+      "url": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/05f04761-8764-4830-8ada-20ef0891d53b.png"
+    },
+    {
+      "id": 2,
+      "name": "89f9c9a5-89bc-4318-8ed5-df655c8c15fe.png",
+      "type": "image/png",
+      "size": "2.52 MB",
+      "url": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/89f9c9a5-89bc-4318-8ed5-df655c8c15fe.png"
+    }
+  ],
+  "total": 2,
+  "rawJsonUrl": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/wallpapers.json"
+}
