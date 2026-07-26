@@ -1,0 +1,174 @@
+{
+  "repository": {
+    "id": 1310246586,
+    "name": "papeisdeparedetema",
+    "fullName": "Diogoalk/papeisdeparedetema",
+    "owner": {
+      "login": "Diogoalk",
+      "id": 307791375,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/307791375?v=4",
+      "htmlUrl": "https://github.com/Diogoalk",
+      "type": "User"
+    },
+    "description": "Coleção de papéis de parede customizados para o aplicativo Kuper",
+    "url": "https://github.com/Diogoalk/papeisdeparedetema",
+    "htmlUrl": "https://github.com/Diogoalk/papeisdeparedetema",
+    "isPrivate": false,
+    "isPublic": true,
+    "isFork": false,
+    "isTemplate": false,
+    "isArchived": false,
+    "defaultBranch": "main",
+    "language": null,
+    "license": null,
+    "topics": [],
+    "stargazers": 0,
+    "watchers": 0,
+    "forks": 0,
+    "openIssues": 0,
+    "size": 12108,
+    "hasIssues": true,
+    "hasPullRequests": true,
+    "hasWiki": true,
+    "hasPages": false,
+    "hasDiscussions": false,
+    "hasDownloads": false,
+    "createdAt": "2024-07-24T00:00:00Z",
+    "updatedAt": "2026-07-26T14:36:06Z",
+    "pushedAt": "2026-07-26T14:36:06Z"
+  },
+  "wallpapers": [
+    {
+      "name": "Tema Pareide Glass 1",
+      "author": "Diogoalk",
+      "url": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/02a8b1bac91aacc3162f15e9242f9c47.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/02a8b1bac91aacc3162f15e9242f9c47.jpg",
+      "collections": "GLASS|THEME",
+      "downloadable": true,
+      "size": 171873,
+      "dimensions": "1280 x 720 px",
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Tema Pareide Geometric 1",
+      "author": "Diogoalk",
+      "url": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/05f04761-8764-4830-8ada-20ef0891d53b.png",
+      "thumbnail": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/05f04761-8764-4830-8ada-20ef0891d53b.png",
+      "collections": "GEOMETRIC|THEME",
+      "downloadable": true,
+      "size": 2442574,
+      "dimensions": "1280 x 720 px",
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Tema Pareide Abstract 1",
+      "author": "Diogoalk",
+      "url": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/1158734.png",
+      "thumbnail": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/1158734.png",
+      "collections": "ABSTRACT|THEME",
+      "downloadable": true,
+      "size": 1276677,
+      "dimensions": "1280 x 720 px",
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Tema Pareide Gradient 1",
+      "author": "Diogoalk",
+      "url": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/1565f0d691f7f4d754fcfef7dade771c.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/1565f0d691f7f4d754fcfef7dade771c.jpg",
+      "collections": "GRADIENT|THEME",
+      "downloadable": true,
+      "size": 198671,
+      "dimensions": "1280 x 720 px",
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Tema Pareide Modern 1",
+      "author": "Diogoalk",
+      "url": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/67f5f977-f4af-442a-93b5-813b188ee85b.png",
+      "thumbnail": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/67f5f977-f4af-442a-93b5-813b188ee85b.png",
+      "collections": "MODERN|THEME",
+      "downloadable": true,
+      "size": 1927813,
+      "dimensions": "1280 x 720 px",
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Tema Pareide Artistic 1",
+      "author": "Diogoalk",
+      "url": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/89f9c9a5-89bc-4318-8ed5-df655c8c15fe.png",
+      "thumbnail": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/89f9c9a5-89bc-4318-8ed5-df655c8c15fe.png",
+      "collections": "ARTISTIC|THEME",
+      "downloadable": true,
+      "size": 2639951,
+      "dimensions": "1280 x 720 px",
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Tema Pareide Minimal 1",
+      "author": "Diogoalk",
+      "url": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/8ff84a603f5847b9227ced48eff07f70.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/8ff84a603f5847b9227ced48eff07f70.jpg",
+      "collections": "MINIMAL|THEME",
+      "downloadable": true,
+      "size": 139989,
+      "dimensions": "1280 x 720 px",
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Tema Pareide Dynamic 1",
+      "author": "Diogoalk",
+      "url": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/9966a4b0-bdaa-4eea-8512-929b5f7302af.png",
+      "thumbnail": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/9966a4b0-bdaa-4eea-8512-929b5f7302af.png",
+      "collections": "DYNAMIC|THEME",
+      "downloadable": true,
+      "size": 2135734,
+      "dimensions": "1280 x 720 px",
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Tema Pareide ChatGPT",
+      "author": "Diogoalk",
+      "url": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/ChatGPT-Image-Sep-11-2025-09_25_38-AM.png",
+      "thumbnail": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/ChatGPT-Image-Sep-11-2025-09_25_38-AM.png",
+      "collections": "AI|THEME",
+      "downloadable": true,
+      "size": 893749,
+      "dimensions": "1280 x 720 px",
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Tema Pareide Premium",
+      "author": "Diogoalk",
+      "url": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/ad5d744064fbcd18943de5d2d87bf54e.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/ad5d744064fbcd18943de5d2d87bf54e.jpg",
+      "collections": "PREMIUM|THEME",
+      "downloadable": true,
+      "size": 13850,
+      "dimensions": "1280 x 720 px",
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    }
+  ],
+  "stats": {
+    "totalWallpapers": 10,
+    "totalSize": "12.1 MB",
+    "categories": [
+      "GLASS",
+      "GEOMETRIC",
+      "ABSTRACT",
+      "GRADIENT",
+      "MODERN",
+      "ARTISTIC",
+      "MINIMAL",
+      "DYNAMIC",
+      "AI",
+      "PREMIUM"
+    ]
+  },
+  "urls": {
+    "baseUrl": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/",
+    "rawJson": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/raw.json",
+    "wallpapersJson": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/wallpapers.json",
+    "repositoryJson": "https://raw.githubusercontent.com/Diogoalk/papeisdeparedetema/main/repository.json"
+  }
+}
