@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Tema Pareide 1",
+    "author": "Diogoalk",
+    "url": "https://github.com/Diogoalk/papeisdeparedetema/raw/main/theme_1.jpg",
+    "thumbnail": "https://github.com/Diogoalk/papeisdeparedetema/raw/main/thumb_1.jpg",
+    "collections": "THEME|CUSTOM",
+    "downloadable": true,
+    "size": 512000,
+    "dimensions": "1280 x 720 px",
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  },
+  {
+    "name": "Tema Pareide 2",
+    "author": "Diogoalk",
+    "url": "https://github.com/Diogoalk/papeisdeparedetema/raw/main/theme_2.jpg",
+    "thumbnail": "https://github.com/Diogoalk/papeisdeparedetema/raw/main/thumb_2.jpg",
+    "collections": "THEME|CUSTOM",
+    "downloadable": true,
+    "size": 512000,
+    "dimensions": "1280 x 720 px",
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  },
+  {
+    "name": "Tema Pareide 3",
+    "author": "Diogoalk",
+    "url": "https://github.com/Diogoalk/papeisdeparedetema/raw/main/theme_3.jpg",
+    "thumbnail": "https://github.com/Diogoalk/papeisdeparedetema/raw/main/thumb_3.jpg",
+    "collections": "THEME|CUSTOM",
+    "downloadable": true,
+    "size": 512000,
+    "dimensions": "1280 x 720 px",
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  }
+]
